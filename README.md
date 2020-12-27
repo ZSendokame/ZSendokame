@@ -12,3 +12,5 @@ I love Scripting Languages like PowerShell, Bash and Python
 <a href="https://www.twitch.tv/ZSendokame"><img src="https://img.shields.io/badge/Twitch-ZSendokame-purple"/>
 
 <a href="https://discord.gg/pSUCuvn3wj"><img src="https://img.shields.io/badge/Discord-World%20Hacking-gray"/>
+  
+<a href="https://api.github.com/users/ZSendokame/repos"><img src="https://img.shields.io/badge/Repositories-green">

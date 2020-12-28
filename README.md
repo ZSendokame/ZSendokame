@@ -1,7 +1,15 @@
 ### Hello there
 
+
+
 ```
-echo "Welcome $env:UserName people call me ZSendokame and I am a Twitch streamer, here I keep my code of the streams"
+Set-Location C:\Users\$env:Username\OneDrive\Documents\
+
+
+Get-Content Description.txt
+
+
+Write-Output "Welcome $env:UserName people call me ZSendokame and I am a Twitch streamer, here I keep my code of the streams"
 ```
 
 I love Scripting Languages like PowerShell, Bash and Python

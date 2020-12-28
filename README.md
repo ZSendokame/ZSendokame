@@ -3,7 +3,7 @@
 
 
 ```
-Set-Location C:\Users\$env:Username\OneDrive\Documents\
+Set-Location $env:OneDrive\Documents\
 
 
 Get-Content Description.txt

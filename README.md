@@ -3,16 +3,21 @@
 
 
 ```
-Set-Location $env:OneDrive\Documents\
+PS C:\> Set-Location $env:OneDrive\Documents\
 
 
-Get-Content Description.txt
+ps c:\Users\ZSendokame\OneDrive> Get-Content Description.txt
+                                    Write-Output "Welcome $env:UserName people call me ZSendokame and I am a Twitch streamer, here I keep my code of the streams"
 
 
-Write-Output "Welcome $env:UserName people call me ZSendokame and I am a Twitch streamer, here I keep my code of the streams"
+
+
+$FavoriteLanguages = @("PowerShell", "Python", Bash")
+
+
+
 ```
 
-I love Scripting Languages like PowerShell, Bash and Python
 
 <br><br>
 

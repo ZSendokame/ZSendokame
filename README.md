@@ -25,5 +25,5 @@ $FavoriteLanguages = @("PowerShell", "Python", Bash")
 # Social Media
 <a href="https://www.twitch.tv/ZSendokame"><img src="https://img.shields.io/badge/Twitch-ZSendokame-purple"/>
 
-<a href="https://discord.gg/pSUCuvn3wj"><img src="https://img.shields.io/badge/Discord-World%20Hacking-gray"/>
+<a href="https://discord.gg/pSUCuvn3wj"><img src="https://img.shields.io/badge/Discord-World%20Hacking-blue"/>
   

@@ -27,4 +27,3 @@ $FavoriteLanguages = @("PowerShell", "Python", Bash")
 
 <a href="https://discord.gg/pSUCuvn3wj"><img src="https://img.shields.io/badge/Discord-World%20Hacking-blue"/>
   
-![ZSendo's github stats](https://github-readme-stats.vercel.app/api?username=ZSendokame&count_private=true)

@@ -3,17 +3,22 @@
 
 
 ```
-PS C:\> Set-Location $env:OneDrive\Documents\
+PS C:\> cd $env:OneDrive\Documents\
 
 
-PS C:\Users\ZSendokame\OneDrive> Get-Content Description.txt
-
-Write-Output "Welcome $env:UserName people call me ZSendokame and I am a Twitch streamer, here I keep my code of the streams"
+PS C:\Users\ZSendokame\OneDrive> Get-Content Description.py
 
 
+import os
+
+user_name = os.getlogin()
+
+print(f'Welcome {user_name} people call me ZSendokame (Sendokame#9562) and I am a Twitch streamer, here I keep my code of the streams')
 
 
-$FavoriteLanguages = @("PowerShell", "Python", Bash")
+
+
+Favorite-Languages = ['PowerShell', 'Python', 'Bash']
 
 
 

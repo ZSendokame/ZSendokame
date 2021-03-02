@@ -13,7 +13,7 @@ import os
 
 user_name = os.getlogin()
 
-print(f'Welcome {user_name} people call me ZSendokame (Sendokame#9562) and I am a Twitch streamer, here I keep my code of the streams')
+print(f'Welcome {user_name} people call me ZSendokame (Sendokame#9562) and here i save my code')
 
 
 

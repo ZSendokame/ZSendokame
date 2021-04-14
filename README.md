@@ -8,7 +8,7 @@ PS C:\> cd $env:OneDrive\Documents\
 
 PS C:\Users\ZSendokame\OneDrive> Get-Content Description.py
 
-´´´
+
 import os
 
 user_name = os.getlogin()
@@ -19,7 +19,7 @@ print(f'Welcome {user_name} people call me ZSendokame (Sendokame#9562) and here 
 
 
 Favorite_Languages = ['PowerShell', 'Python', 'Bash']
-´´´
+
 
 
 ```

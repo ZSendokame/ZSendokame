@@ -18,7 +18,7 @@ print(f'Welcome {user_name} people call me ZSendokame (Sendokame#9562) and here 
 
 
 
-Favorite_Languages = ['PowerShell', 'Python', 'Bash']
+Favorite_Languages = ['PowerShell', 'Python']
 
 
 

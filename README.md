@@ -14,15 +14,9 @@ import os
 
 user_name = os.getlogin()
 
-print(f'Welcome {user_name} people call me ZSendokame (Sendokame#9562) and here i save my code')
-
-
-
+print(f'Welcome {user_name} people call me ZSendokame (Sendokame#0891) and here i save my code')
 
 Favorite_Languages = ['PowerShell', 'Python']
-
-
-
 ```
 
 

@@ -2,21 +2,21 @@
 
 
 
-```
+```py
+#!/usr/bin/env python
 
-PS C:\> cd $env:OneDrive\Documents\
+class Sendokame():
+    def __init__(self):
+        self.age = 13
+        self.programming_languages = ['Python', 'JavaScript', 'PowerShell']
+        self.other = ['HTML', 'CSS']
+        self.spoken = ['es_CL', 'en_US']
 
+    def Cheers(self):
+        print('Thanks for seeing my profile, I hope u like my tools.')
 
-PS C:\Users\ZSendokame\OneDrive> Get-Content Description.py
-
-
-import os
-
-user_name = os.getlogin()
-
-print(f'Welcome {user_name} people call me ZSendokame (Sendokame#0891) and here i save my code')
-
-Favorite_Languages = ['PowerShell', 'Python']
+me = Sendokame()
+me.Cheers()
 ```
 
 

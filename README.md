@@ -12,7 +12,7 @@ class Sendokame():
         self.other = ['HTML', 'CSS']
         self.spoken = ['es_CL', 'en_US']
 
-    def Cheers(self):
+    def Cheers():
         print('Thanks for seeing my profile, I hope u like my tools.')
 
 me = Sendokame()

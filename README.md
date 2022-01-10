@@ -23,5 +23,6 @@ me.Cheers()
 <br><br>
 
 # Social Media
+<a href="https://gist.github.com/ZSendokame/">Gist, i have a lot of things here</a><br>
 <a href="https://discord.gg/aBsCR6pyZj"><img src="https://img.shields.io/badge/Discord-World%20Hacking-blue"/>
   

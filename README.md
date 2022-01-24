@@ -12,6 +12,7 @@ Hi! i'm Sendokame, a 13 years old "programmer"<br>
 - HTML
 - CSS
 - Flask
+- Heroku
 
 # What i'm learning?
 - Git

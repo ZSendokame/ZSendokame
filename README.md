@@ -25,5 +25,7 @@ Hi! i'm Sendokame, a 13 years old "programmer"<br>
 - <a href="https://sendokame.netlify.app">My webpage</a>: My own webpage on spanish, i talk about hacking and programming.
 
 # Social Media
-<a href="https://gist.github.com/ZSendokame/">Gist, i have a lot of things here</a><br>
-<a href="https://discord.gg/aBsCR6pyZj"><img src="https://img.shields.io/badge/Discord-World%20Hacking-blue"/>
+<a href="https://discord.gg/aBsCR6pyZj"><img src="https://img.shields.io/badge/Discord-World%20Hacking-blue"/></a>
+
+# My stats!
+[![Sendokame's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsendokame)](https://github.com/zsendokame/zsendokame)

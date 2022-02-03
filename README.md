@@ -18,6 +18,7 @@ Hi! i'm Sendokame, a 13 years old "programmer"<br>
 - Git
 - Node
 - Electron
+- React
 
 # More interesting Projects
 - <a href="https://github.com/zsendokame/SeCl">SeCl</a>: Easy and free to use API to manage files remotely from your terminal!.

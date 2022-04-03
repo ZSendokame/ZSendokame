@@ -26,5 +26,5 @@ Hi! i'm Sendokame, a 13 years old "programmer".<br>
 # Social Media
 <a href="https://discord.gg/aBsCR6pyZj"><img src="https://img.shields.io/badge/Discord-World%20Hacking-blue"/></a>
 
-# My stats!
+# My statistics!
 [![Sendokame's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsendokame)](https://github.com/zsendokame/zsendokame)

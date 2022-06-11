@@ -20,8 +20,8 @@ Hi! i'm Sendokame, a 14 years old "programmer", i started at the age of 12 with 
 
 # More interesting Projects
 - [ViCl](https://github.com/ZSendokame/ViCl): Simple API to manage files remotely.
-- [Outlog](https://github.com/zsendokame/Outlog): Easy to use logging library.
-- [My webpage](https://sendokame.netlify.app): My own webpage on spanish, i talk about hacking and programming.
+- [Arguing](https://github.com/zsendokame/Arguing): Argument parsing made simple, no bloat.
+- [My webpage](https://sendokame.netlify.app): My own webpage on spanish, I talk about hacking and programming.
 
 # Social Media
 <a href="https://discord.gg/aBsCR6pyZj"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>

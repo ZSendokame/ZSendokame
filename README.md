@@ -11,12 +11,11 @@ Hi! I'm Sendokame, a 14 years old "programmer". I started at the age of 12 with 
 
 #### Technologies
 - HTML
-- CSS
+- CSS (Basic)
 - Flask
 - Heroku
 
 # What i'm learning?
-- Git
 - Ruby
 
 # More interesting Projects

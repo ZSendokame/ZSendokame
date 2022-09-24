@@ -3,7 +3,7 @@
 Hi! I'm Sendokame, a 14 years old "programmer". I started at the age of 12 with **Batch**.<br>
 <img height=21 src="https://komarev.com/ghpvc/?username=ZSendokame">
 
-# What i know?
+# What I know?
 #### Languages
 - Python
 - JavaScript
@@ -15,7 +15,7 @@ Hi! I'm Sendokame, a 14 years old "programmer". I started at the age of 12 with 
 - Flask
 - Heroku
 
-# What i'm learning?
+# What I'm learning?
 - Ruby
 
 # More interesting Projects

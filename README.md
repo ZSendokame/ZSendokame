@@ -8,6 +8,7 @@ Hi! I'm Sendokame, a 14 years old "programmer". I started at the age of 12 with 
 - Python
 - JavaScript
 - PowerShell
+- Ruby (Basic)
 
 #### Technologies
 - HTML
@@ -16,7 +17,7 @@ Hi! I'm Sendokame, a 14 years old "programmer". I started at the age of 12 with 
 - Heroku
 
 # What I'm learning?
-- Ruby
+---
 
 # More interesting Projects
 - [Arguing](https://github.com/zsendokame/Arguing): Argument parsing made simple, no bloat.

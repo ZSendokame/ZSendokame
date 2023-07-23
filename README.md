@@ -1,9 +1,9 @@
 ### Hello there
 
-Hi! I'm Sendokame, a 14 years old "programmer". I started at the age of 12 with **Batch**.<br>
+Hi! I'm Sendokame, a 15 years old "programmer". I started at the age of 12 with **Batch**.<br>
 <img height=21 src="https://komarev.com/ghpvc/?username=ZSendokame">
 
-# What I know?
+# What do I know?
 #### Languages
 - Python
 - JavaScript
@@ -19,7 +19,7 @@ Hi! I'm Sendokame, a 14 years old "programmer". I started at the age of 12 with 
 # What I'm learning?
 ---
 
-# More interesting Projects
+# More Interesting Projects
 - [Arguing](https://github.com/zsendokame/Arguing): Argument parsing made simple, no bloat.
 
 # Social Media

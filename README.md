@@ -1,6 +1,6 @@
 ### Hello there
 
-Hi! I'm Sendokame, a 15 years old "programmer". I started at the age of 12 with **Batch**.<br>
+Hi! I'm Sendokame, a 16 years old "programmer". I started at the age of 12 with **Batch**.<br>
 <img height=21 src="https://komarev.com/ghpvc/?username=ZSendokame">
 
 # What do I know?

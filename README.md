@@ -2,7 +2,7 @@
 
 Hi! I'm Sendokame, a 17 years old "programmer". I started at the age of 12 with **Batch**.<br>
 
-About two years ago now, I took some interest in Mathematics, and I often take challenges and problems to solve, or generalize them, or, more in general, approach them from everywhere I can. Naturally, this and many other things take time, and I don't code as often anymore, but I still really like the field.
+About three years ago now, I took some interest in Mathematics, and I often take challenges and problems to solve, or generalize them, or, more in general, approach them from everywhere I can. Naturally, this and many other things take time, and I don't code as often anymore, but I still really like the field.
 
 <img height=21 src="https://komarev.com/ghpvc/?username=ZSendokame">
 

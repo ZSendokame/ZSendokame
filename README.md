@@ -11,13 +11,11 @@ About three years ago now, I took some interest in Mathematics, and I often take
 - Python
 - JavaScript
 - PowerShell
-- Ruby (Basic)
 
 #### Technologies
 - HTML
 - CSS (Basic)
 - Flask
-- Heroku
 
 # What I'm learning?
 - Learning Calculus independently of school
@@ -25,9 +23,11 @@ About three years ago now, I took some interest in Mathematics, and I often take
 
 # More Interesting Projects
 - [Arguing](https://github.com/zsendokame/Arguing): Argument parsing made simple, no bloat.
+- [Fly](https://github.com/ZSendokame/Fly): Scraping made efficient.
+- [Flier](https://gist.github.com/ZSendokame/d3894b86e6db776b826b2af76e2c89c6): Scraping from the terminal (Using ``Arguing`` and ``Fly``)
 
 # Social Media
-<a href="https://discord.gg/aBsCR6pyZj"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/5nADhX9fbH"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 # My statistics!
 [![Sendokame's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsendokame)](https://github.com/zsendokame/zsendokame)

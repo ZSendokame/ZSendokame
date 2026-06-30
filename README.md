@@ -18,8 +18,9 @@ I have taken a long hiatus from coding, each project that does get uploaded is, 
 - Flask
 
 # What I'm learning?
-- Learning Calculus independently of school
+- ~~Learning Calculus independently of school~~ (I took (and did great!) with a Calculus elective class)
 - Reading about electronics and related
+- Arduino
 
 # More Interesting Projects
 - [Arguing](https://github.com/zsendokame/Arguing): Argument parsing made simple, no bloat.
@@ -29,5 +30,3 @@ I have taken a long hiatus from coding, each project that does get uploaded is, 
 # Social Media
 <a href="https://discord.gg/5nADhX9fbH"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
-# My statistics!
-[![Sendokame's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsendokame)](https://github.com/zsendokame/zsendokame)

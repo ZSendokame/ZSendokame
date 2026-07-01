@@ -18,7 +18,7 @@ I have taken a long hiatus from coding, each project that does get uploaded is, 
 - Flask
 
 # What I'm learning?
-- ~~Learning Calculus independently of school~~ (I took (and did great!) with a Calculus elective class)
+- ~~Learning Calculus independently of school~~ (I took [and did great!] with a Calculus elective class)
 - Reading about electronics and related
 - Arduino
 
